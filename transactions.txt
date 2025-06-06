@@ -1,0 +1,26 @@
+-------------------------------TRANSACTION HISTORY-------------------------------
+Transaction Made By: aryl_ross_manalo@dlsl.edu.ph
+Trancation Date and Time: 2025-06-06 17:04:07
+
+Items: 
+T-SHIRT 2x 300.0
+SHORTS 2x 150.0
+PANTS 2x 400.0
+CAP 1x 300.0
+
+Total Price: PHP2000
+Amount Paid: PHP2000
+Change: PHP0
+----------------------------------------------------------------------------------
+Transaction Made By: john_doe@dlsl.edu.ph
+Trancation Date and Time: 2025-06-06 17:05:25
+
+Items: 
+PS5 1x 50000.0
+PS5 CONTROLLER 2x 3000.0
+PS5 HEADPHONES 1x 5000.0
+
+Total Price: PHP61000
+Amount Paid: PHP70000
+Change: PHP9000
+----------------------------------------------------------------------------------
